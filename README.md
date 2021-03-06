@@ -2,9 +2,21 @@
 
 I am Full Stack Developer, more backend incline but most of the time i juggle between backend and frontend. <br/>
 
-In my development approach, I always aim to apply and use the following development approach [DRY - Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [KISS - Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle), [SOLID](https://en.wikipedia.org/wiki/SOLID)
+In my development approach, I always aim to apply and use the following development approach 
+- [DRY - Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
+- [KISS - Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle),
+- [SOLID](https://en.wikipedia.org/wiki/SOLID)
 
 ### Fun facts:
+- Enthusiast about fitness, working out and  staying fit.
+- Football lover, unfortunatelly I didn't take my skills to next level but i confort myself by playing on weekend and watching Premier Leagues.
+- Outdoor activies such as Hikes, Games at beach, Campping etc...  are my go to on Holidays and long weekends.
+- Enjoy reading books on Financial and Investments aspect. 
+
+### Trending:
+- Playing with Natural Language Processing (NLT)
+- Learning Golang Micro Services and GRPC
+- Playing with [Python Fast Api](https://fastapi.tiangolo.com)
 
 ### Connect with me:
 
