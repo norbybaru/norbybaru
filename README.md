@@ -6,17 +6,18 @@ In my development approach, I always aim to apply and use the following developm
 - [DRY - Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
 - [KISS - Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle),
 - [SOLID](https://en.wikipedia.org/wiki/SOLID)
+- [YAGNI - You Aren't Gonna Need It](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
 ### Fun facts:
-- Enthusiast about fitness, working out and  staying fit.
-- Football lover, unfortunatelly I didn't take my skills to next level but i confort myself by playing on weekend and watching Premier Leagues.
-- Outdoor activies such as Hikes, Games at beach, Campping etc...  are my go to on Holidays and long weekends.
-- Enjoy reading books on Financial and Investments aspect. 
+- Enthusiast about fitness, working out, staying fit and living a healthy balanced life
+- Football lover, unfortunately I didn't take my skills to next level but i comfort myself by playing on weekend and watching Premier Leagues.
+- Outdoor activities such as Hikes, Games at beach, Camping etc...  are my go to on Holidays and long weekends.
+- Enjoy reading books on Financial and Investments aspect.
 
 ### Trending:
-- Playing with Natural Language Processing (NLT)
-- Learning Golang Micro Services and GRPC
-- Playing with [Python Fast Api](https://fastapi.tiangolo.com)
+- Learning Golang by building Micro services and Web apps
+- Playing with [Fastify](https://fastify.dev) to build serverless app
+- Laravel building open-source packages and building web app using TALL and VILT stack
 
 ### Connect with me:
 
@@ -30,6 +31,7 @@ In my development approach, I always aim to apply and use the following developm
 
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />]()
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
+[<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
